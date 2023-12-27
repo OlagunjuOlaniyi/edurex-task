@@ -29,7 +29,7 @@ const Page: NextPage = () => {
           <div className="mt-3 mb-2 relative">
             <p className="absolute right-[-8rem] bottom-[5px]">
               <Link
-                href="/onboarding/onboard3"
+                href="/login/welcome"
                 className="text-[18px] text-[#0f515f] font-bold"
               >
                 Next
